@@ -34,4 +34,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p>
 
 
-![snake gif](https://github.com/Deny-santos/deny-santos/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Deny-santos/Deny-santos/blob/output/github-contribution-grid-snake.svg)

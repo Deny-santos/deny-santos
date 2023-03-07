@@ -1,6 +1,12 @@
 
 <div align="center">
-<h2> Seja, bem vindo!</h2>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Bem+vindo!+👋;+Me+chamo+Denisson!;&center=true&size=30">
+  </a>
+</h1>
+  
 </div>
 </br>
 <div align="center">
@@ -32,6 +38,3 @@
 </div>
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p>
-
-
-![snake gif](https://github.com/Deny-santos/Deny-santos/blob/output/github-contribution-grid-snake.svg)

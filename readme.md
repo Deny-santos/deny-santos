@@ -7,45 +7,9 @@
   </a>
 </h1>
   
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/Deny-santos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deny-santos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deny-santos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,javascript,typescript,css,express,styledcomponents,materialui,tailwind,php" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,html,redux,vscode" />
-  </a>
-</p>
-
-</br>
-
- <div align="center">
-  <a href="https://www.instagram.com/denysantoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:denisson.graca3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/denisson-santos-019956214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-</br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p>
-
-
-
-
-
-
-
-
-</br></br></br>
+  
+  
+  </br></br></br>
 </hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -71,3 +35,31 @@
 </p>
 
 <hr>
+
+  
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,javascript,typescript,css,express,styledcomponents,materialui,tailwind,php" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,html,redux,vscode" />
+  </a>
+</p>
+
+</br>
+
+ <div align="center">
+  <a href="https://www.instagram.com/denysantoz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:denisson.graca3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/denisson-santos-019956214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+</br>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p>
+
+
+
+
+
+
+
+

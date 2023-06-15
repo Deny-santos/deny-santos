@@ -2,7 +2,7 @@
 
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Olá+Bem+Vindo!!!!;Me+Chamo+Denisson+Santos;Desenvolvedor+Web+Front-end.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I`m+Denis+Santos;Web+Developer+ + +Front-End.)](https://git.io/typing-svg)
  </div>
  
 <br/>
@@ -54,7 +54,7 @@
 
 </br>
 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p>
+<!-- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Deny-santos/count.svg" /></p> -->
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
